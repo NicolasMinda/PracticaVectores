@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class PracticaVectoresRegistroVentas {
 
     public static void main(String[] args) {
+        //Soy batman
         
         Scanner entrada =new Scanner(System.in);
         int []ventas=new int[7];
